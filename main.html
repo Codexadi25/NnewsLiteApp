@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News App Lite | Powered by G-News | Aditya Tech. & Devoops. &copy; 2025</title>
-    <link rel="stylesheet" href="style.css">
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+   <link rel="icon" href="./favicon.ico" type="image/x-icon">
+   <title>News App Lite | Powered by G-News | Aditya Tech. & Devoops. &copy; 2025</title>
+   <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <nav>
         <div class="main-nav container flex">
-            <img src="./NewsLite.png" alt="NewsApp" class="nav-image"/>
-            <h4 onclick="reload()"><b>ews Lite</b></h4>
+            <span class="nav-image container flex">
+               <img src="./NewsLite.png" alt="NewsApp" class="nav-image"/>
+               <h4 onclick="reload()"><b>ews Lite</b></h4>
+            </span>
 
             <div class="nav-links">
                 <ul class="flex">
                     <li class="hover-link nav-item" id="Cricket" onclick="onNavItemClick('Cricket')"><b>Cricket</b></li>
                     <li class="hover-link nav-item" id="Finance" onclick="onNavItemClick('Finance')"><b>Finance</b></li>
                     <li class="hover-link nav-item" id="Politics" onclick="onNavItemClick('Politics')"><b>Politics</b></li>
-                    <li class="hover-link nav-item" id="Technology" onclick="onNavItemClick('Technology')"><b>Technology</b></li>
+                    <li class="hover-link nav-item" id="Technology" onclick="onNavItemClick('Technology')"><b>Technology &nbsp;</b></li>
                 </ul>
             </div>
             <div class="search-bar flex">
