@@ -1,4 +1,4 @@
-# 📰 (NnewsLiteApp)[https://codexadi25.github.io/NnewsLiteApp/]
+# 📰 **NnewsLiteApp** [https://codexadi25.github.io/NnewsLiteApp/]
 
 NnewsLiteApp is a simple, responsive, and modern web-based news application that provides users with real-time news updates across various categories. Built using HTML, CSS, and JavaScript, it leverages the GNews API to fetch the latest news articles from trusted sources globally.
 
