@@ -16,7 +16,7 @@ NnewsLiteApp is a simple, responsive, and modern web-based news application that
 - 🌙 Clean and minimal user interface
 
 ## Preview
-[NewsLiteApp](https://repository-images.githubusercontent.com/1003826743/0bd5167e-136c-4ae6-92de-1365438fbb39)
+![NewsLiteApp](https://repository-images.githubusercontent.com/1003826743/0bd5167e-136c-4ae6-92de-1365438fbb39)
 
 ## 🚀 Getting Started
 
